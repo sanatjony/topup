@@ -1,2 +1,3 @@
 aiogram
 aiohttp
+Agar `aiogram==2.25.1` bo'lsa, uni o'chirib, shunchaki `aiogram` deb yozib, qaytadan push qiling. Bu 3-versiyani yuklaydi va xatoni butunlay yo'qotadi.
